@@ -1,0 +1,16 @@
+C:\Users\bogda\source\repos\Sudoku\Sudoku\bin\Release\Sudoku.exe.config
+C:\Users\bogda\source\repos\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\Users\bogda\source\repos\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\MainWindow.g.cs
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\WindowNewName.g.cs
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\App.g.cs
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\Sudoku_MarkupCompile.cache
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\Sudoku_MarkupCompile.lref
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\MainWindow.baml
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\WindowNewName.baml
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\Sudoku.g.resources
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\Sudoku.Properties.Resources.resources
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\Sudoku.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\Sudoku.exe
+C:\Users\bogda\source\repos\Sudoku\Sudoku\obj\Release\Sudoku.pdb
